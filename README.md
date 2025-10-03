@@ -6,7 +6,7 @@ A modern, responsive React.js homepage for an IELTS coaching institute featuring
 
 ## 🌐 Demo
 
-- **Live Demo**: Coming soon (Deploy to Vercel/Netlify)
+- **Live Demo**: 
 - **Local**: `http://localhost:5173` after running `npm run dev`
 
 ## ✨ Features
@@ -453,26 +453,8 @@ All navigation links use JavaScript's `scrollIntoView` with smooth behavior for 
 ⚠️ **Resources**: Show alerts (ready for file hosting)
 ⚠️ **Payments**: Not implemented (frontend demo only)
 
----
 
-## 🚀 Deployment Guide
 
-### Vercel (Recommended)
-```bash
-# 1. Push to GitHub ✅ (already done)
-# 2. Visit: https://vercel.com/new
-# 3. Import: kowshik1206/ielts-institute-homepage
-# 4. Deploy with defaults (Vite preset)
-# Your site: https://your-project.vercel.app
-```
-
-### Netlify
-```bash
-npm run build
-# Drag 'dist' folder to: https://app.netlify.com/drop
-```
-
----
 
 ## 🧪 Testing & Quality Assurance
 
@@ -528,7 +510,5 @@ This project is created for educational/internship assignment purposes.
 - All open-source contributors
 
 ---
-
-**Built with ❤️ for IELTS learners worldwide**
 
 *Last Updated: October 2025*
