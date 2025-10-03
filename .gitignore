@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Extra documentation files (not required for assignment)
+BUTTON_REFERENCE.md
+DEPLOYMENT.md
+FEATURES_CHECKLIST.md
+GIT_SETUP.md
+INTERNSHIP_SUMMARY.md
+PRESENTATION_GUIDE.md
+PROJECT_SUMMARY.md
+QUICK_START.md
+TESTING_GUIDE.md
+VISUAL_PREVIEW.md
