@@ -6,8 +6,10 @@ A modern, responsive React.js homepage for an IELTS coaching institute featuring
 
 ## 🌐 Demo
 
-- **Live Demo**: 
+- **Live Demo**: https://ielts-institute-homepage-hlkitlco0-kowshik1206s-projects.vercel.app
 - **Local**: `http://localhost:5173` after running `npm run dev`
+
+> 🎯 **Note**: The live demo is fully functional with all 60+ interactive buttons, responsive design (mobile to desktop), and smooth animations!
 
 ## ✨ Features
 
