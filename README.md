@@ -9,26 +9,6 @@ A modern, responsive React.js homepage for an IELTS coaching institute featuring
 - **Live Demo**: Coming soon (Deploy to Vercel/Netlify)
 - **Local**: `http://localhost:5173` after running `npm run dev`
 
-### 📸 Screenshots
-
-#### Desktop View (1366px+)
-![Desktop Hero Section](/screenshots/desktop-hero.png)
-*Hero section with enrollment CTAs, statistics, and score visualization*
-
-![Desktop Features Section](/screenshots/desktop-features.png)
-*Feature cards with interactive "Try Free" buttons*
-
-#### Mobile Views
-
-| 320px (iPhone SE) | 375px (iPhone 12) | 425px (Mobile L) |
-|---|---|---|
-| ![Mobile 320px](/screenshots/mobile-320px.png) | ![Mobile 375px](/screenshots/mobile-375px.png) | ![Mobile 425px](/screenshots/mobile-425px.png) |
-| *Hamburger menu functional* | *Responsive layout* | *Card stacking* |
-
-> **Note**: All screenshots show the working hamburger menu, responsive layouts, and functional UI elements at different breakpoints.
-
----
-
 ## ✨ Features
 
 - **Responsive Design**: Fully responsive layout that works seamlessly on mobile, tablet, and desktop devices
